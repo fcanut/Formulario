@@ -1,0 +1,68 @@
+
+body {
+    background-color: #f19329; /* Cambia el color como desees */
+}
+/* Estilos para h5 */
+h5 {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    z-index: 1;
+    padding: 10px;
+}
+
+/* Estilos para h4 */
+h4 {
+    width: 101.5%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    padding: 1px;
+}
+
+/* Estilos para las tablas */
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+/* Estilos para las celdas de encabezado */
+th {
+    background-color: #f8f2f2;
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+}
+
+/* Estilos para las celdas de datos */
+td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+}
+
+/* Estilos para los campos de entrada y select */
+input[type="text"],
+input[type="date"],
+select {
+    width: 100%;
+}
+
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    text-align: center;
+}
+
+fieldset {
+    width: 50%; /* Puedes ajustar el valor según lo necesites */
+    margin: 20px auto; /* Ajusta el valor del margen superior e inferior */
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #0c0c0c;
+
+    background-color: #fffdfd;
+    text-align: center;
+}
+
